@@ -1,11 +1,11 @@
 import React from "react";
- 
+import Header from '../global/Header';
 
 const MainPage = () => { 
 
   return (
     <>
-      <div>MainPage</div>
+      <Header/>
     </>  
   );
 }
